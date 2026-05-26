@@ -1,7 +1,7 @@
 const methods = [
-    { label: 'Email', value: 'hello@example.com', href: 'mailto:hello@example.com' },
+    { label: 'Email', value: 'merzkorchy@gmail.com', href: 'mailto:merzkorchy@gmail.com' },
     { label: 'LinkedIn', value: 'Connect on LinkedIn', href: 'https://www.linkedin.com' },
-    { label: 'GitHub', value: 'View code samples', href: 'https://github.com' },
+    { label: 'GitHub', value: 'View code samples', href: 'https://github.com/mercycheropkoech' },
 ];
 
 const Contact = () => {
