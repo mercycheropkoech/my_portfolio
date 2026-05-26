@@ -31,7 +31,7 @@ const Navbar = () => {
     <header className="fixed top-0 left-0 right-0 bg-[#f9a8d4]/90 backdrop-blur-md py-5 z-50 border-b border-[#fbcfe8] transition-all duration-300 shadow-sm shadow-pink-100">
       <nav className="container mx-auto px-6 flex items-center justify-between">
         <a href="#home" className="text-xl font-bold tracking-tight text-[#500724] transition hover:text-[#db2777]">
-          P.M. Portfolio
+          MERCY CHEROP KOECH
         </a>
 
         <div className="hidden md:flex items-center gap-6">

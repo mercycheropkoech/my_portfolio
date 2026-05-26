@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import profileImage from '../assets/profile.svg';
+import profileImage from '../assets/profile.jpg';
 
 const phrases = [
     'Mercy, a Developer with a passion for crafting delightful user experiences.',
@@ -11,8 +11,8 @@ const Hero = () => {
     const [activePhrase, setActivePhrase] = useState(0);
     const stats = useMemo(
         () => [
-            { label: 'Years of coding', value: '4+' },
-            { label: 'Main stack', value: 'React' },
+            { label: 'Years of coding', value: '3+' },
+            { label: 'Main stack', value: 'front-end' },
             { label: 'Focus', value: 'UX-driven software' },
         ],
         []
